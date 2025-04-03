@@ -9,7 +9,7 @@
 
 🚀 **A Developer Who Loves Challenges & Innovation**  
 
-I’m a Computer Engineering student at Kookmin University, passionate about **building creative solutions** through software development. I enjoy exploring **AI, cloud computing, and futuristic technologies**, always looking for ways to bring innovative ideas to life.  
+I’m a Computer Engineering student at Kookmin University, passionate about **building creative solutions** through software development. I enjoy exploring **AI, cloud computing, and futuristic technologies**, always looking for ways to bring innovative ideas to life. I’m also interested in sustainable cloud engineering, finding ways to optimize energy efficiency and reduce environmental impact. My goal is to develop technologies that not only drive innovation but also contribute to a more sustainable future.
 
 ### 🔥 What I Do  
 - 💡 **Creative Problem Solving** – I love connecting concepts through storytelling and finding intuitive solutions.  
