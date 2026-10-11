@@ -7,18 +7,22 @@
 
 ### 👋 Hi, I'm Seohyeon Baek!  
 
-🚀 **A Developer Who Loves Challenges & Innovation**  
+🚀 **I build with cloud and AI, and I think about what they cost and what they're worth.**
 
-I’m a Computer Engineering student at Kookmin University, passionate about **building creative solutions** through software development. I enjoy exploring **AI, cloud computing, and futuristic technologies**, always looking for ways to bring innovative ideas to life. I’m also interested in sustainable cloud engineering, finding ways to optimize energy efficiency and reduce environmental impact. My goal is to develop technologies that not only drive innovation but also contribute to a more **sustainable future**.
+Kookmin University · B.S. in Software (Expected Feb 2027)
 
-### 🔥 What I Do  
-- 💡 **Creative Problem Solving** – I love connecting concepts through storytelling and finding intuitive solutions.  
-- 🌍 **Collaboration & Teamwork** – Worked on international projects and open-source contributions.  
-- 🌱 **Currently Learning** – Backend development & cloud-based AI applications.  
+
+### 💼 Experience
+- **NAVER Cloud** · IaaS Product Planning Intern (Apr 2026 – Aug 2026)
+  - Developed and operated a server capacity dashboard used for expansion decisions
+  - Built a validation tool that caught a missing capacity buffer and an omitted server type in the aggregation logic
+  - Proposed and deployed an internal LLM chatbot for natural-language infrastructure queries, eliminating hallucinations and doubling response speed
+
 
 ### ✨ Projects  
-🦙 **ALPACO** – Cloud-based LLM problem generation & auto-grading service.  
-📍 **MAPSEE : Personalized Map Service** – Developed backend and deployed using Docker on Naver Cloud Platform (K-PaaS).
+- 🧹 **ChoreMint** – Family chore reward PWA · Team Lead, Global PBL (USA)
+- 🦙 **ALPACO** – Serverless LLM-based coding test platform on AWS · **Grand Prize, Capstone Design Exhibition**
+- 📍 **MAPSEE : Personalized Map Service** – Developed backend and deployed using Docker on Naver Cloud Platform (K-PaaS).
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
